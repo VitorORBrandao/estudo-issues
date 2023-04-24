@@ -1,4 +1,4 @@
 nome = "Vítor"
 sobrenome = "Oliveira"
 
-print(nome + " " + sobrenome)
+print("Bom dia " + nome + " " + sobrenome)
